@@ -1,0 +1,6 @@
+/* styles.module.css */
+.background-image {
+  background-image: url('/background.jpg'); /* Path to your image in the public directory */
+  background-size: cover;
+  /* Add other CSS properties as needed */
+}
